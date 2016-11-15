@@ -1,0 +1,6 @@
+<?
+$sSectionName = "English";
+$arDirProperties = Array(
+
+);
+?>

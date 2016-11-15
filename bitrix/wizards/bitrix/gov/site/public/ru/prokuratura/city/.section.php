@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Прокуратура";
+$arDirProperties = array(
+
+);
+?>

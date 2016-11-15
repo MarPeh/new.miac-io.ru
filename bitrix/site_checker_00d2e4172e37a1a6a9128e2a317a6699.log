@@ -1,0 +1,204 @@
+2016-Sep-25 14:29:14 Наличие необходимых модулей php (check_php_modules): Ok
+Все необходимые модули установлены
+2016-Sep-25 14:29:15 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2016-Sep-25 14:29:15 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2016-Sep-25 14:29:15 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2016-Sep-25 14:29:15 Сохранение сессии (check_session): Ok
+50% done
+2016-Sep-25 14:29:15 Сохранение сессии (check_session): Ok
+Успешно
+2016-Sep-25 14:29:15 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Правильные. Сайт работает в UTF кодировке
+2016-Sep-25 14:29:15 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2016-Sep-25 14:29:15 Работа с сокетами (check_socket): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:15 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2016-Sep-25 14:29:16 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:16 Выполнение агентов на cron (check_bx_crontab): Ok
+Успешно
+2016-Sep-25 14:29:16 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:16 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:16 Настройки сайтов (check_sites): Ok
+Правильные
+2016-Sep-25 14:29:16 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2016-Sep-25 14:29:16 Размер стека и pcre.recursion_limit (check_pcre_recursion): Warning
+Connection to 172.16.172.163:80	Success
+
+Замечание. Возможны проблемы в работе с длинными строками из-за системных ограничений
+2016-Sep-25 14:29:16 Вызов method_exists на строке (check_method_exists): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:16 Загрузка файла (check_upload): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:16 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:17 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:17 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:17 Отправка почты (check_mail): Fail
+Ошибка! Не работает
+2016-Sep-25 14:29:17 Отправка почтового сообщения больше 64Кб (check_mail_big): Fail
+Ошибка! Не работает
+2016-Sep-25 14:29:17 Проверка на наличие неотправленных сообщений (check_mail_b_event): Fail
+Ошибка! Есть ошибки при отправке системных почтовых сообщений, число неотправленных сообщений: 12 Определена константа BX_CRONTAB_SUPPORT в /bitrix/php_interface/dbconn.php, при этом должен быть настроен вызов агентов на cron.
+2016-Sep-25 14:29:17 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:17 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:18 Фактическое ограничение памяти (check_memory_limit): Ok
+20% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:18 Фактическое ограничение памяти (check_memory_limit): Ok
+40% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:18 Фактическое ограничение памяти (check_memory_limit): Ok
+60% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:18 Фактическое ограничение памяти (check_memory_limit): Ok
+80% done
+Connection to 172.16.172.163:80	Success
+
+2016-Sep-25 14:29:19 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to 172.16.172.163:80	Success
+
+Не менее 256 М
+2016-Sep-25 14:29:20 Работа с файлами кеша (check_cache): Ok
+Успешно
+2016-Sep-25 14:29:21 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2016-Sep-25 14:29:32 HTTP авторизация (check_http_auth): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:32 Создание и запуск файла (check_exec): Ok
+Connection to 172.16.172.163:80	Success
+
+Успешно
+2016-Sep-25 14:29:32 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2016-Sep-25 14:29:32 Версия MySQL-сервера (check_mysql_bug_version): Ok
+Успешно
+2016-Sep-25 14:29:33 Время на БД и веб-сервере (check_mysql_time): Ok
+Успешно
+2016-Sep-25 14:29:33 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2016-Sep-25 14:29:33 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2016-Sep-25 14:29:33 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2016-Sep-25 14:29:33 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно
+2016-Sep-25 14:29:34 Структура базы данных (check_mysql_table_structure): Ok
+0% done
+2016-Sep-25 14:29:34 Структура базы данных (check_mysql_table_structure): Ok
+2% done
+2016-Sep-25 14:29:34 Структура базы данных (check_mysql_table_structure): Ok
+5% done
+2016-Sep-25 14:29:35 Структура базы данных (check_mysql_table_structure): Ok
+7% done
+2016-Sep-25 14:29:36 Структура базы данных (check_mysql_table_structure): Ok
+10% done
+2016-Sep-25 14:29:36 Структура базы данных (check_mysql_table_structure): Ok
+13% done
+2016-Sep-25 14:29:37 Структура базы данных (check_mysql_table_structure): Ok
+15% done
+2016-Sep-25 14:29:37 Структура базы данных (check_mysql_table_structure): Ok
+18% done
+2016-Sep-25 14:29:38 Структура базы данных (check_mysql_table_structure): Ok
+21% done
+2016-Sep-25 14:29:39 Структура базы данных (check_mysql_table_structure): Ok
+23% done
+2016-Sep-25 14:29:39 Структура базы данных (check_mysql_table_structure): Ok
+26% done
+2016-Sep-25 14:29:40 Структура базы данных (check_mysql_table_structure): Ok
+28% done
+2016-Sep-25 14:29:40 Структура базы данных (check_mysql_table_structure): Ok
+31% done
+2016-Sep-25 14:29:41 Структура базы данных (check_mysql_table_structure): Ok
+34% done
+2016-Sep-25 14:29:41 Структура базы данных (check_mysql_table_structure): Ok
+36% done
+2016-Sep-25 14:29:41 Структура базы данных (check_mysql_table_structure): Ok
+39% done
+2016-Sep-25 14:29:43 Структура базы данных (check_mysql_table_structure): Ok
+42% done
+2016-Sep-25 14:29:43 Структура базы данных (check_mysql_table_structure): Ok
+44% done
+2016-Sep-25 14:29:43 Структура базы данных (check_mysql_table_structure): Ok
+47% done
+2016-Sep-25 14:29:44 Структура базы данных (check_mysql_table_structure): Ok
+50% done
+2016-Sep-25 14:29:49 Структура базы данных (check_mysql_table_structure): Ok
+52% done
+2016-Sep-25 14:29:50 Структура базы данных (check_mysql_table_structure): Ok
+55% done
+2016-Sep-25 14:29:50 Структура базы данных (check_mysql_table_structure): Ok
+57% done
+2016-Sep-25 14:29:51 Структура базы данных (check_mysql_table_structure): Ok
+60% done
+2016-Sep-25 14:29:51 Структура базы данных (check_mysql_table_structure): Ok
+63% done
+2016-Sep-25 14:29:51 Структура базы данных (check_mysql_table_structure): Ok
+65% done
+2016-Sep-25 14:29:52 Структура базы данных (check_mysql_table_structure): Ok
+68% done
+2016-Sep-25 14:29:53 Структура базы данных (check_mysql_table_structure): Ok
+71% done
+2016-Sep-25 14:29:53 Структура базы данных (check_mysql_table_structure): Ok
+73% done
+2016-Sep-25 14:29:53 Структура базы данных (check_mysql_table_structure): Ok
+76% done
+2016-Sep-25 14:29:54 Структура базы данных (check_mysql_table_structure): Ok
+78% done
+2016-Sep-25 14:29:54 Структура базы данных (check_mysql_table_structure): Ok
+81% done
+2016-Sep-25 14:29:54 Структура базы данных (check_mysql_table_structure): Ok
+84% done
+2016-Sep-25 14:29:55 Структура базы данных (check_mysql_table_structure): Ok
+86% done
+2016-Sep-25 14:29:57 Структура базы данных (check_mysql_table_structure): Ok
+89% done
+2016-Sep-25 14:29:57 Структура базы данных (check_mysql_table_structure): Ok
+92% done
+2016-Sep-25 14:29:58 Структура базы данных (check_mysql_table_structure): Ok
+94% done
+2016-Sep-25 14:29:58 Структура базы данных (check_mysql_table_structure): Ok
+97% done
+2016-Sep-25 14:29:58 Структура базы данных (check_mysql_table_structure): Ok
+Успешно

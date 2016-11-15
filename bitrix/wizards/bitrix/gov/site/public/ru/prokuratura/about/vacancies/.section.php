@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Кадры";
+$arDirProperties = array(
+
+);
+?>

@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"#SITE_DIR#index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О департаменте", 
+		"#SITE_DIR#about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пресс-центр", 
+		"#SITE_DIR#info/", 
+		Array(), 
+		Array(), 
+		"" 
+	),	
+	Array(
+		"Деятельность", 
+		"#SITE_DIR#activity/", 
+		Array(), 
+		Array(), 
+		"" 
+	),	
+	Array(
+		"Документы", 
+		"#SITE_DIR#documents/", 
+		Array(), 
+		Array(), 
+		"" 
+	),	
+	Array(
+		"Обращения граждан", 
+		"#SITE_DIR#feedback/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты",
+		"#SITE_DIR#contacts/",
+		Array(),
+		Array(),
+		""
+	)
+);
+?>

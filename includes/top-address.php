@@ -1,0 +1,1 @@
+<span style="font-size: 11pt;">664011, г. Иркутск, ул. Каландаришвили, 12</span><b><span style="font-size: 11pt;"><br> </span></b>

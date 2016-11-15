@@ -1,0 +1,15 @@
+div.news-list h2
+{
+margin:0 0 4px 0!important;
+}
+.news-date-time {
+	color:#486DAA;
+}
+.image-holder {
+width:136px;
+vertical-align:top;
+}
+.text-holder {
+vertical-align:top;
+
+}

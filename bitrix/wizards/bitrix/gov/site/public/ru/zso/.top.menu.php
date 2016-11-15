@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"#SITE_DIR#index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Область", 
+		"#SITE_DIR#region/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Собрание", 
+		"#SITE_DIR#about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Документы", 
+		"#SITE_DIR#regulatory/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гос. заказ", 
+		"#SITE_DIR#mun-order/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гос. услуги", 
+		"#SITE_DIR#gosserv/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обращения", 
+		"#SITE_DIR#feedback/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+);
+?>

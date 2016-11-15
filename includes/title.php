@@ -1,0 +1,1 @@
+<span style="color: #157fc4;"><table cellpadding="1" cellspacing="1"><tbody><tr>	<td>		<span style="font-size: 9pt;"> </span><span style="font-size: 9pt;">МИНИСТЕРСТВО ЗДРАВООХРАНЕНИЯ ИРКУТСКОЙ ОБЛАСТИ</span> <br>		Медицинский информационно-аналитический центр Иркутской области	</td></tr></tbody></table> </span>

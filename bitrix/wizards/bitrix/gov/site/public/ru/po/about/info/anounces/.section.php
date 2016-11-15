@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Анонсы";
+$arDirProperties = Array(
+
+);
+?>

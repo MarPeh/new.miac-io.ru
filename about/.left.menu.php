@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Новости", 
+		"/about/info/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Структура", 
+		"/about/struct.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О центре", 
+		"/about/index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Цели и задачи", 
+		"/about/tseli-i-zadachi/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

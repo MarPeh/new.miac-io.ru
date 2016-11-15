@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		"#SITE_DIR#index.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Об управлении", 
+		"#SITE_DIR#about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отделы ЗАГС", 
+		"#SITE_DIR#department/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Новости и мероприятия", 
+		"#SITE_DIR#info/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"#SITE_DIR#registry_office/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обращения", 
+		"#SITE_DIR#feedback/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"#SITE_DIR#about/vacancies/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#SITE_DIR#contacts/",
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

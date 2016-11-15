@@ -1,0 +1,12 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Карта сайта");$APPLICATION->SetPageProperty("show_timestamp_x", "N");
+$APPLICATION->AddChainItem("Карта сайта", "");
+?><?$APPLICATION->IncludeComponent("bitrix:main.map", ".default", Array(
+	"LEVEL"	=>	"3",
+	"COL_NUM"	=>	"2",
+	"SHOW_DESCRIPTION"	=>	"Y",
+	"SET_TITLE"	=>	"Y",
+	"CACHE_TIME"	=>	"3600"
+	)
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

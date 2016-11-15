@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Область";
+$arDirProperties = Array(
+
+);
+?>

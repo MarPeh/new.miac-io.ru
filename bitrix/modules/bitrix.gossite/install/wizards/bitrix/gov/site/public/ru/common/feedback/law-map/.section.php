@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Прозрачность";
+$arDirProperties = Array(
+
+);
+?>

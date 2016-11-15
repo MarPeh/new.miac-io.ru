@@ -1,0 +1,84 @@
+.leaders{
+	text-align:center;
+}
+
+#content .inner .inner_content .leaders h2{	
+	font-size:18px;	
+	background: url('images/leadersHeaderBg.png') repeat-x 0 15px;
+	margin-right:24px;
+	color:#717171;
+	margin-top:13px;
+	margin-bottom:0;
+}
+
+.leaders h2 span{
+	background:#fff;
+	padding:0 18px;	
+}
+
+#content .inner .inner_content .leaders .leadersLine{
+	display:inline-block;	
+	margin-right:20px;
+	margin-bottom: 29px;
+	margin-top:24px;
+}
+
+#content .inner .inner_content .leaders .leadersLine li{
+	width: 264px;
+	padding:0;
+	margin:0;	
+	background:0;		
+}
+
+#content .inner .inner_content .leaders .leadersLine li .img{
+	display:block;
+	text-align:center;
+	 -moz-border-radius: 5px;
+   	-webkit-border-radius: 5px; 
+   	-khtml-border-radius: 5px; 
+   	-o-border-radius:5px; 
+   	border-radius: 5px;     	
+   	position:relative;
+   	behavior: url('js/PIE.htc');
+   	padding: 7px;   	
+   	overflow:hdden;
+   	background: #f2f2f2;
+}
+
+#content .news-list .leaders .leaderTop li .img{	
+   	width:264px;
+   	height:191px;   	
+}
+
+#content .inner .inner_content .leaders .leaderTop .caption{
+
+}
+
+#content .inner .inner_content .leaders .leaderOther li{
+	float:left;
+	width: 157px;	
+	margin-right:17px;	
+}
+
+#content .inner .inner_content .leaders .leaderOther li.last{
+	margin-right:0;
+}
+
+#content .inner .inner_content .leaders .leaderOther li .img{
+   	width:145px;
+   	height:145px;   
+}
+
+#content .inner .inner_content .leaders .caption{
+	margin-top:15px;
+	font-size:12px;
+	color:#333333;
+	font-weight: bold;
+}
+
+#content .inner .inner_content .leaders .caption a{
+	display:block;
+	font-size:13px;
+	height: 20px;
+	margin-bottom:16px;
+}

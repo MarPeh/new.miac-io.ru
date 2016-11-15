@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Градостроительство";
+$arDirProperties = Array(
+
+);
+?>

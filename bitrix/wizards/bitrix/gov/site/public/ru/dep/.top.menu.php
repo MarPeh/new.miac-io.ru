@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная",
+		"#SITE_DIR#index.php",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Предприятие", 
+		"#SITE_DIR#about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"#SITE_DIR#uslugi/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Документы", 
+		"#SITE_DIR#regulatory/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Выставки", 
+		"#SITE_DIR#exhibition/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обратная связь", 
+		"#SITE_DIR#feedback/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"#SITE_DIR#contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

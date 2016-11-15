@@ -1,0 +1,31 @@
+<?
+$MESS ['SUP_REGNUMBER'] = "Рег.номер";
+$MESS ['SUP_ID'] = "ID";
+$MESS ['SUP_F_FILTER'] = "Фільтр";
+$MESS ['SUP_ASK'] = "Створити нове звернення";
+$MESS ['SUP_F_ID'] = "ID звернення";
+$MESS ['SUP_EXACT_MATCH'] = "Шукати точне співпадання при фільтрації";
+$MESS ['SUP_F_LAMP'] = "Індикатор";
+$MESS ['SUP_RED'] = "червоний";
+$MESS ['SUP_GREEN'] = "зелений";
+$MESS ['SUP_GREY'] = "сірий";
+$MESS ['SUP_F_CLOSE'] = "Закрито/відкрито";
+$MESS ['SUP_CLOSED'] = "закрито";
+$MESS ['SUP_OPENED'] = "відкрито";
+$MESS ['SUP_ALL'] = "(все)";
+$MESS ['SUP_F_MESSAGE'] = "Текст повідомлення";
+$MESS ['SUP_F_SET_FILTER'] = "Встановити";
+$MESS ['SUP_F_DEL_FILTER'] = "Скинути";
+$MESS ['SUP_LAMP'] = "Індикатор";
+$MESS ['SUP_TITLE'] = "Заголовок";
+$MESS ['SUP_TIMESTAMP'] = "Дата створення";
+$MESS ['SUP_MODIFIED_BY'] = "Хто змінив";
+$MESS ['SUP_MESSAGES'] = "Міркувань.";
+$MESS ['SUP_STATUS'] = "Статус";
+$MESS ['SUP_GREEN_ALT'] = "останній раз в обіг писали ви";
+$MESS ['SUP_EDIT_TICKET'] = "Змінити на звернення";
+$MESS ['SUP_EDIT'] = "Редагувати";
+$MESS ['SUP_TOTAL'] = "Всього";
+$MESS ['SUP_RED_ALT_2'] = "останній раз в обіг писав ваш опонент";
+$MESS ['SUP_GREY_ALT'] = "звернення закрито";
+?>
